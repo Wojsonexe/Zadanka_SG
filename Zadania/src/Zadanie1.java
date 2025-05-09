@@ -15,5 +15,7 @@ public class Zadanie1 {
         } else {
             System.out.println("Nie");
         }
+
+        sc.close();
     }
 }
