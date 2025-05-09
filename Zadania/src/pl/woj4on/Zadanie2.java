@@ -1,3 +1,4 @@
+package pl.woj4on;
 import java.util.Scanner;
 
 public class Zadanie2 {
